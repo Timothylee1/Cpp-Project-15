@@ -1,0 +1,16 @@
+const matrix m2(2, 2):
+1 2
+3 4
+
+const matrix md2(2, 3):
+1.1 2.2 3.3
+4.4 5.5 6.6
+
+const matrix cd2(2, 2):
+(1.1,1.1) (2.2,2.2)
+(3.3,3.3) (4.4,4.4)
+
+const matrix ms2(3, 3):
+ab bc cd
+de ef fg
+gh hi ij
